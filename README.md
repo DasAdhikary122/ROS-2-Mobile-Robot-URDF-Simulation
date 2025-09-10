@@ -1,5 +1,5 @@
 # ROS-2-Mobile-Robot-URDF-Simulation
-Internship Task 03: Autonomous Mobile Robot modeled in ROS 2 using URDF/Xacro, TF2 frames, RViz, and Gazebo.
+   Task 03: Autonomous Mobile Robot modeled in ROS 2 using URDF/Xacro, TF2 frames, RViz, and Gazebo.
 
 ---
 
@@ -13,7 +13,7 @@ Internship Task 03: Autonomous Mobile Robot modeled in ROS 2 using URDF/Xacro, T
 
 # 🔽 How to Run
 
-### 2. Open a Terminal
+### 2. Open Terminal 1
 
 Navigate into the extracted workspace folder:
 
@@ -38,7 +38,7 @@ ros2 launch amr_description display.launch.py
 
 ### 5 🕹️ – Run in Gazebo and Control Robot
 
-**Terminal 1 – Launch robot in Gazebo**
+**Open Terminal 2 – Launch robot in Gazebo**
 
 ```bash
 cd ~/ros2_ws
