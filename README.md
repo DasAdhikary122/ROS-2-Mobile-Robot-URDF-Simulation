@@ -48,8 +48,7 @@ ros2 launch amr_description gazebo.launch.py
 ```
 
 
-
-![Project Screenshot](images/photo1.png)
+![Project Screenshot](photo1.png)
 
 
 
